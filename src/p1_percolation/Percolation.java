@@ -5,6 +5,10 @@ import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 /**
  * @author kaush
  *
+ * @description
+ * To model percolation system
+ * Handled Backwash problem by using two copies of WeightedQuickUnionUF instance. One connects with the bottom 
+ * virtual node and the other which doesn't connect is used in isFull()
  */
 public class Percolation {
 
@@ -101,5 +105,5 @@ public class Percolation {
 	private int calculateIndex(int i, int j) {
 		return N*(i-1) + j;
 	}
-	
+
 }

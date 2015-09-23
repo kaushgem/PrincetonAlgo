@@ -3,6 +3,10 @@ package p1_percolation;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
+/**
+ * @author kaush
+ *
+ */
 public class PercolationStats {
 
 	private double[] fractionOpenSites;
