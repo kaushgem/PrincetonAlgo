@@ -1,5 +1,4 @@
-# PrincetonAlgo
-#### Analysis of Algorithms, Princeton - Coursera
+# Analysis of Algorithms, Princeton - Coursera
 
 ##### Programming Assignment 1: Percolation</b>
 
