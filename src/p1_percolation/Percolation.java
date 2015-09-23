@@ -2,6 +2,10 @@ package p1_percolation;
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
+/**
+ * @author kaush
+ *
+ */
 public class Percolation {
 
 	private WeightedQuickUnionUF gridUF, gridUF1;
